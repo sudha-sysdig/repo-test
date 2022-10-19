@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ main ]
 env:
-  SYSDIG_URL: https://us2.app.sysdig.com/
+  SYSDIG_URL: https://app.us4.sysdig.com/
   APP_NAME: app-js
   REGISTRY: ghcr.io/sudha-sysdig/repo-test
 
